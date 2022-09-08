@@ -128,8 +128,8 @@ class View:
                           '职位数': self.get_count()}
                  })
         finally:
-			print(list(collection.find()))
-			client.close()
+	    print(list(collection.find()))
+            client.close()
 
     def view_word_cloud(self):
         mask = plt.imread("static/img/background.jpg")
