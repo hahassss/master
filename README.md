@@ -3,6 +3,7 @@ spider_51job.py 爬虫
 job_view_api.py 可视化
 
 #### 时间：2021年，数据来源于51
+#### 声明：仅用于学生数据爬取和分析用途
 #### 可视化结果部分
 ![热力图](https://github.com/hahassss/master/assets/96510178/6bd68cfd-1b02-4bd1-ad67-ae6b76ae8a1b)
 ![screenshot-20240303-122137](https://github.com/hahassss/master/assets/96510178/eb9eb34d-b37f-493a-bc53-e70f15032414)
